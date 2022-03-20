@@ -11,8 +11,8 @@ Wine Reviews
 
 + winemag-data-130k-v2.json contains 6919 nodes of wine reviews.
 
-Click on the data tab to see individual file descriptions, column-level metadata and summary statistics.
 Chicago Building Violations
++ Violations issued by the Department of Buildings from 2006 to the present. Violations are always associated to an inspection and there can be multiple violation records to one inspection record.
 ### 文件说明：
 
 Wine.py: 处理Wine Reviews的Python文件  
