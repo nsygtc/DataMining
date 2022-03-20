@@ -15,5 +15,5 @@ Chicago Building Violations
 + Violations issued by the Department of Buildings from 2006 to the present. Violations are always associated to an inspection and there can be multiple violation records to one inspection record.
 ### 文件说明：
 
-Wine.py: 处理Wine Reviews的Python文件  
-Building.py: 处理Chicago Building Violations的Python文件
+WineAnalysis.py: 处理Wine Reviews的Python文件  
+ChicagoBuildingViolationsAnalysis.py: 处理Chicago Building Violations的Python文件
